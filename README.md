@@ -38,4 +38,3 @@
 
 
 [twitter]: https://twitter.com/NEERAJTANGARIYA
-[linkein]: https://www.linkedin.com/in/%E0%A4%A8%E0%A5%80%E0%A4%B0%E0%A4%9C-%E0%A4%9F%E0%A4%82%E0%A4%97%E0%A5%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE-tangariya-b33067100/
