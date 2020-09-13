@@ -22,13 +22,13 @@ I made this project just for fun this project allows you to create nice and simp
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Neeraj1005/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/neeraj.singhtangariya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NEERAJTANGARIYA)   -->
 
 <p align="center">
-  <a href="https://www.facebook.com/https://www.facebook.com/neeraj.singhtangariya/">
+  <a href="https://www.facebook.com/neeraj.singhtangariya/" target="_blank">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
   </a>
-  <a href="https://github.com/https://github.com/Neeraj1005/">
+  <a href="https://github.com/Neeraj1005/">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>
-  <a href="https://twitter.com/https://twitter.com/NEERAJTANGARIYA">
+  <a href="https://twitter.com/NEERAJTANGARIYA">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
   </a>
 </p>
