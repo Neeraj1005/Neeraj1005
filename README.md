@@ -1,16 +1,20 @@
-### Hi there 👋 👩🏾‍💻, I'm Neeraj 
+<h3 align="center">👋 Hello! I'm Neeraj.</h3>
+<hr>
 *Web Developer*
-<!-- ![Web Developer](https://github.com/Neeraj1005/Neeraj1005/profile.JPG) -->
-:::image type="content" source="profile.JPG" alt-text="prfile.JPG":::
+![Web Developer](https://github.com/Neeraj1005/Neeraj1005/profile.JPG)
+<!-- ![image](https://github.com/Neeraj1005/Neeraj1005/blob/master/india.gif) -->
 
 I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
 
-- Skills: HTML/CSS/JS/Laravel/Laravel-livewire/Bootstrap/Wordpress/
+- Skills: 
+  - Known web-development skills: HTML/CSS/JS/pHp/
+  - Basic Knowledge of PL: C/OOPs/python
+  - Framework: Laravel/Bootstrap/
+  - Others: Wordpress/Laravel-livewire/
 
-- 🔭 I’m currently learning these things.
+- 👩🏾‍💻 I’m currently learning/working on these things.
   - *Tailwind CSS*
-  - *One of these thing not choosen yet: Angular/Vue/React*
+  - *Laravel/Laravel-Livewire*
 
-
-
-<!-- ![image](https://github.com/Neeraj1005/Neeraj1005/blob/master/india.gif) -->
+- 🤔Interested to learning on of these Framework
+  - *One of these thing not choosen yet: Angular/Vue/React*  
