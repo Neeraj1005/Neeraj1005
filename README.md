@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I'm Neeraj.</h3>
+<h3 align="center">👋 Hi there! I'm Neeraj.</h3>
 <h5 align="center">Web Developer</h5>
 <p align="center">
   <a href="https://www.facebook.com/neeraj.singhtangariya/" target="_blank">
@@ -15,7 +15,7 @@
 
 <!-- ![image](https://github.com/Neeraj1005/Neeraj1005/blob/master/banner.png) -->
 
-I made this project just for fun.................. 
+I'm Neeraj Tangariya. I'm a web developer. I mostly or currently work on Laravel apps and Learning new things related to programming such as java-scripts and others....😀 
 
 - ***Skills***: 
   - Known web-development skills: **HTML/CSS/JS/pHp/**
