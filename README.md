@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Neeraj.</h3>
+<h3 align="center">👋 Hi! I'm Neeraj.</h3>
 <h5 align="center">Web Developer</h5>
 <p align="center">
   <a href="https://github.com/Neeraj1005/" target="_blank">
