@@ -18,7 +18,7 @@
 
 <!-- ![image](https://github.com/Neeraj1005/Neeraj1005/blob/master/banner.png) -->
 
-I'm Neeraj Tangariya. And I am a Web Developer 👩🏾‍💻 and for web development I'm using the `laravel Framework` and it is awesome 😍  
+I'm Neeraj Tangariya. And I am a Web Developer👩🏾‍💻. And for web development I'm using the `laravel Framework` and it is awesome😍.  
 
 - 👩🏾‍💻: 
   - Front-End knowledge: `HTML/CSS/TailwindCSS/JS/Jquery`
@@ -33,7 +33,7 @@ I'm Neeraj Tangariya. And I am a Web Developer 👩🏾‍💻 and for web devel
     - Having Theoretical knowledge: `Data Structure, Algorithm, Networking`.
 <hr>
 
-### Reach me out there:
+#### Connect with me:
 
 <p align="center">
   <a href="https://github.com/Neeraj1005/" target="_blank">
@@ -49,5 +49,13 @@ I'm Neeraj Tangariya. And I am a Web Developer 👩🏾‍💻 and for web devel
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="color:blue">
   </a>
 </p>
+
+#### Profile Visit
+
+<center>
+
+![Visitor Count](https://profile-counter.glitch.me/Neeraj1005/count.svg)
+
+</center>
 
 
