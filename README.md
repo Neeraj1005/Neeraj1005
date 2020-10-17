@@ -55,7 +55,6 @@ I'm Neeraj Tangariya. And I am a Web Developer👩🏾‍💻. And for web devel
 <center>
 
 ![Visitor Count](https://profile-counter.glitch.me/Neeraj1005/count.svg)
-
 </center>
 
 
