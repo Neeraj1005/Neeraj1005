@@ -47,7 +47,6 @@ I'm Neeraj Tangariya. And I am a Web Developer 👩🏾‍💻 and for web devel
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="color:blue">
   </a>
 </center>
-<center>![Visitor Count](https://profile-counter.glitch.me/Neeraj1005/count.svg)</center>
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Neeraj1005/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/neeraj.singhtangariya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NEERAJTANGARIYA)   -->
 
 
