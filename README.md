@@ -33,6 +33,7 @@ I'm Neeraj Tangariya. And I am a Web Developer 👩🏾‍💻 and for web devel
     - Having Theoretical knowledge: `Data Structure, Algorithm, Networking`.
 
 ### Reach me out there:
+
 <center>
   <a href="https://github.com/Neeraj1005/" target="_blank">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
