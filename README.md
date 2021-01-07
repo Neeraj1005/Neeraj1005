@@ -33,6 +33,11 @@ I'm Neeraj Tangariya. And I am a Web Developer👩🏾‍💻. And for web devel
     - Having Theoretical knowledge: `Data Structure, Algorithm, Networking`.
 <hr>
 
+
+[![Neeraj's github stats](https://github-readme-stats.vercel.app/api?username=Neeraj1005&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Neeraj1005&color=blueviolet)
+
 #### Connect with me:
 
 <p align="center">
