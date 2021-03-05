@@ -18,19 +18,25 @@
 
 <!-- ![image](https://github.com/Neeraj1005/Neeraj1005/blob/master/banner.png) -->
 
-I'm Neeraj Tangariya. And I am a Web Developer👩🏾‍💻. And for web development I'm using the `laravel Framework` and it is awesome😍.  
+I'm Neeraj Tangariya. And I am a Web Developer👩🏾‍💻. And for web development I'm using the `laravel/laravel-livewire` and it is awesome😍.  
 
 - 👩🏾‍💻: 
-  - Front-End knowledge: `HTML/CSS/TailwindCSS/JS/Jquery`
-    - Framework: **Bootstrap**
+  - Front-End knowledge: `HTML/CSS/JS/Bootstrap/TailwindCSS/Jquery/AlpineJs/GatsBy/NextJs`
+    - Framework: **Bootstrap/GatsBy/NextJs**
   - Back-End knowledge: `PHP`
     - Framework: **Laravel**
-  - Programming knowledge: `C,C++,PHP,JS,.Net`.
-  - Others:
-    - I'm using `Laravel-Livewire` for my project and loved this one.
-    - I've basic knowledge of `Wordpress`.
-    - Also I've basic knowledge of `python` but not familiar with this yet But in future I loved to used or learn this techonolgy for my interesting area/stuff like `ML,Data-science`.
+  - Programming knowledge: `C,PHP,JS`.
+  - Dev Environment:
+    - Backend: `Laravel/Laravel-Livewire/` for API using Laravel
+    - FrontEnd: `NextJs` continuosly learing react and apply with NextJs
+    - Editor: vscode
+    - Local environment: laragon/xampp (laragon mostly)
+    -     
+  - Familiar with
+    - wordpress/gatsby/strapi/ 
     - Having Theoretical knowledge: `Data Structure, Algorithm, Networking`.
+  - Future Interest
+    - python (for ML/Data Science)/ 
 <hr>
 
 
