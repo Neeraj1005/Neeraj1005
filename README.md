@@ -1,71 +1,30 @@
-<h3 align="center">👋 Hi! I'm Neeraj.</h3>
-<h5 align="center">Web Developer</h5>
-<p align="center">
-  <a href="https://github.com/Neeraj1005/" target="_blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-  </a>
-  <a href="https://www.facebook.com/neeraj.singhtangariya/" target="_blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
-  </a>
-  <a href="https://www.linkedin.com/in/%E0%A4%A8%E0%A5%80%E0%A4%B0%E0%A4%9C-%E0%A4%9F%E0%A4%82%E0%A4%97%E0%A5%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE-tangariya-b33067100/" target="_blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='twitter' height='40' style="color:blue">
-  </a>
-  <a href="https://twitter.com/NEERAJTANGARIYA" target="_blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="color:blue">
-  </a>
-</p>
-<hr>
+<h1 align="center">Hi 👋, I'm Neeraj</h1>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<!-- ![image](https://github.com/Neeraj1005/Neeraj1005/blob/master/banner.png) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj1005&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj1005" /> </p>
 
-I'm Neeraj Tangariya. And I am a Web Developer👩🏾‍💻. And for web development I'm using the `laravel/laravel-livewire` and it is awesome😍.  
+<p align="left"> <a href="https://twitter.com/neerajtangariya" target="blank"><img src="https://img.shields.io/twitter/follow/neerajtangariya?logo=twitter&style=for-the-badge" alt="neerajtangariya" /></a> </p>
 
-- 👩🏾‍💻: 
-  - Front-End knowledge: `HTML/CSS/JS/Bootstrap/TailwindCSS/Jquery/AlpineJs/GatsBy/NextJs`
-    - Framework: **Bootstrap/GatsBy/NextJs**
-  - Back-End knowledge: `PHP`
-    - Framework: **Laravel**
-  - Programming knowledge: `C,PHP,JS`.
-  - Dev Environment:
-    - Backend: `Laravel/Laravel-Livewire/` for API using Laravel
-    - FrontEnd: `NextJs` continuosly learing react and apply with NextJs
-    - Editor: vscode
-    - Local environment: laragon/xampp (laragon mostly)
-    -     
-  - Familiar with
-    - wordpress/gatsby/strapi/ 
-    - Having Theoretical knowledge: `Data Structure, Algorithm, Networking`.
-  - Future Interest
-    - python (for ML/Data Science)/ 
-<hr>
+- 🔭 I’m currently working on [digitalcrm](https://digitalcrm.com/) [bigindia](https://www.bigindia.com/) [ejobsitesoftware](https://ejobsitesoftware.com/)
 
+- 🌱 I’m currently learning **React,Inertia,Tailwind**
 
-[![Neeraj's github stats](https://github-readme-stats.vercel.app/api?username=Neeraj1005&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=Neeraj1005&color=blueviolet)
-
-#### Connect with me:
-
-<p align="center">
-  <a href="https://github.com/Neeraj1005/" target="_blank">
-    <img src='github-logo.svg' alt='github' height='40'>
-  </a>
-  <a href="https://www.facebook.com/neeraj.singhtangariya/" target="_blank">
-    <img src='facebook.svg' alt='facebook' height='40'>
-  </a>
-  <a href="https://www.linkedin.com/in/%E0%A4%A8%E0%A5%80%E0%A4%B0%E0%A4%9C-%E0%A4%9F%E0%A4%82%E0%A4%97%E0%A5%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE-tangariya-b33067100/" target="_blank">
-    <img src='linkedin.svg' alt='twitter' height='40' style="color:blue">
-  </a>
-  <a href="https://twitter.com/NEERAJTANGARIYA" style="color:blue;" target="_blank">
-    <img src='twitter.svg' alt='twitter' height='40'>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/neeraj1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="neeraj1005" height="30" width="40" /></a>
+<a href="https://twitter.com/neerajtangariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neerajtangariya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/नीरज-टंगड़िया-tangariya-b33067100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="नीरज-टंगड़िया-tangariya-b33067100" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8455396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8455396" height="30" width="40" /></a>
+<a href="https://fb.com/neeraj.singhtangariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neeraj.singhtangariya" height="30" width="40" /></a>
+<a href="https://instagram.com/neeraj.tangariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeraj.tangariya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/neeraj_tangariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neeraj_tangariya" height="30" width="40" /></a>
 </p>
 
-<!-- #### Profile Visit
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<center>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj1005&show_icons=true&locale=en&layout=compact" alt="neeraj1005" /></p>
 
-![Visitor Count](https://profile-counter.glitch.me/Neeraj1005/count.svg)
-</center> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj1005&show_icons=true&locale=en" alt="neeraj1005" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj1005&" alt="neeraj1005" /></p>
