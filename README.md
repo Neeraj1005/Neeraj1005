@@ -7,6 +7,10 @@
 
 - 🔭 I’m currently working on [digitalcrm](https://digitalcrm.com/) [bigindia](https://www.bigindia.com/) [ejobsitesoftware](https://ejobsitesoftware.com/)
 
+<!-- - 📫 Reach me at **neeraj.tangariya123@gmail.com** -->
+
+- 👨‍💻 All of my projects are available at [Neeraj1005](https://github.com/Neeraj1005)
+
 - 🌱 I’m currently learning **React,Inertia,Tailwind**
 
 <h3 align="left">Connect with me:</h3>
