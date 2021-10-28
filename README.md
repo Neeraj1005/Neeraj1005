@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj1005&show_icons=true&locale=en" alt="neeraj1005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj1005&" alt="neeraj1005" /></p>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/neeraj1005/neeraj1005/blob/master/devcard.svg" width="400" alt="Neeraj Dev Card"/></a>
